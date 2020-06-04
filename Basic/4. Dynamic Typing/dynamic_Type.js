@@ -20,11 +20,11 @@ let isApproved = true;
 console.log('Type of isApproved var is:', typeof isApproved);
 
 let firstName = undefined;
-console.log('Type of name firstName is:', typeof firstName);
+console.log('Type of firstName is:', typeof firstName);
 //Here firstname is itself an undefine type.
 let selectedColour = null;
-console.log('Type of name var is:', typeof selectedColour);
-//It is Null type
+console.log('Type of selectedColour var is:', typeof selectedColour);
+//It is Object type 
 const data = 0.3;
 console.log('Type of data is:', typeof data);
 //It is also number type
