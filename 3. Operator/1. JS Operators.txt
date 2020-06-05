@@ -1,0 +1,10 @@
+In Js we have different kinds of operator. 
+We use these operator along with our variable and constants to create expressions.
+With these expression we can implement logics and algorithms. 
+So here different kinds of operators we have in Javascript.
+1. Arithmatic operator.
+2. Assignment operator.
+3. Comparison Operator.
+4. Logical Operator.
+5. Bit wise Operator.
+We will see next all of them in details.
